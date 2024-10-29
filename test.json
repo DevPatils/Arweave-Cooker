@@ -1,0 +1,14 @@
+{
+    "address": "your_wallet_address",
+    "key": {
+      "kty": "RSA",
+      "n": "some_large_number",
+      "e": "AQAB",
+      "d": "some_large_number",
+      "p": "some_large_number",
+      "q": "some_large_number",
+      "dp": "some_large_number",
+      "dq": "some_large_number",
+      "qi": "some_large_number"
+    }
+  }
